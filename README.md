@@ -1,4 +1,4 @@
-# 🏍️ 24-0 World Superbike Draft
+# 🏍 24-0 World Superbike Draft
 
 **X-0 Sports Draft template #19** — Draft 5 World Superbike legends across 6 eras (1988-2026) and try to sweep all 24 races.
 
